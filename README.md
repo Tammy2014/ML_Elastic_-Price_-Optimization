@@ -8,7 +8,7 @@
 #### Goal:  Building a dynamic pricing model
 
 #### Method:    Implement a retail price optimization algorithm using regression trees. This is one of the 
-                                first steps to building a dynamic pricing model.
+                               
 #### Tech Used:    Language - Python Libraries – NumPy, pandas, matplotlib, seaborn 
 
 #### Models Tested:
